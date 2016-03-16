@@ -2,6 +2,6 @@ name: hNoRain
 version: 0.0.0.1
 main: hexeption.morgancentral99.main
 commands:
-  hNoRain:
+  rain:
      description: To enable and Disable rain plugin
      usage: /Rain
